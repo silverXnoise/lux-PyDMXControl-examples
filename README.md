@@ -1,6 +1,6 @@
 # Home Automation w/PyDMXControl
 
-> **Note**: *This is based off prior work by [MattIPv4](https://github.com/MattIPv4/), as referenced in the README.md at [https://github.com/MattIPv4/PyDMXControl](https://github.com/MattIPv4/PyDMXControl)*.
+> **Note**: *This is based off prior work by [MattIPv4](https://github.com/MattIPv4/), as referenced in the `README.md` at [https://github.com/MattIPv4/PyDMXControl](https://github.com/MattIPv4/PyDMXControl)*.
 
 <!-- Source: https://github.com/MattIPv4/template/blob/master/README.md -->
 
