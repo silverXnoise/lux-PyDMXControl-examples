@@ -1,6 +1,6 @@
 # Home Automation w/PyDMXControl
 
-> **Note**: *This is based off prior work by [MattIPv4](https://github.com/MattIPv4/), as referenced in the `README.md` at [https://github.com/MattIPv4/PyDMXControl](https://github.com/MattIPv4/PyDMXControl). The original source code can be found at https://github.com/MattIPv4/home-automation/tree/3ea3b57ef6b2dfcd692c46973b001e5ad57eea06.*
+> **Note**: *This is based off prior work by [MattIPv4](https://github.com/MattIPv4/), as referenced in the `README.md` at [https://github.com/MattIPv4/PyDMXControl](https://github.com/MattIPv4/PyDMXControl). The original source code can be found at [MattIPv4/home-automation](https://github.com/MattIPv4/home-automation/tree/3ea3b57ef6b2dfcd692c46973b001e5ad57eea06).*
 
 <!-- Source: https://github.com/MattIPv4/template/blob/master/README.md -->
 
